@@ -25,6 +25,11 @@
       "name": "nwradu",
       "type": "website",
       "url": "https://www.nwradu.ro/feed/"
+    },
+    {
+      "name": "TNW",
+      "type": "website",
+      "url": "https://thenextweb.com/feed"
     }
   ]
 }
