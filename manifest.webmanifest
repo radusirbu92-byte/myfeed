@@ -1,1 +1,16 @@
-{"name":"MyFeed — Personal Timeline","short_name":"MyFeed","start_url":"./","display":"standalone","background_color":"#f4f3ed","theme_color":"#f4f3ed","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
+{
+  "name": "MyFeed — Personal Timeline",
+  "short_name": "MyFeed",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#17161c",
+  "theme_color": "#17161c",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
