@@ -23,3 +23,9 @@ A free self-hosted reader for RSS/Atom websites, blogs and YouTube channel feeds
 
 ## Development
 Run `python collect.py` and `python -m http.server 8000`, then open localhost:8000.
+
+
+## Edit directly from the website (optional)
+Open **Surse**. To save sources or press **Update now**, connect a **fine-grained GitHub personal access token** scoped **only** to `radusirbu92-byte/myfeed`, with **Contents: Read and write** and **Actions: Read and write**. Prefer a short expiry, and never commit or share the token. It is stored in the current browser tab's JavaScript memory only; reload or close the tab to clear it. Each device needs its own session.
+
+After adding/removing sources, press **Save in GitHub**. This commits the configuration and automatically launches the refresh workflow. To force a collection, press **Update now** and then **Reload** once the workflow finishes. This is not a server-side OAuth implementation; use it only on a device you trust, with a limited token. A saved config is visible publicly because the repository is public.
