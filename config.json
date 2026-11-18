@@ -20,6 +20,11 @@
       "name": "YouTube — Google for Developers",
       "type": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_x5XG1OV2P6uZZ5FSM9Ttw"
+    },
+    {
+      "name": "nwradu",
+      "type": "website",
+      "url": "https://www.nwradu.ro/feed/"
     }
   ]
 }
