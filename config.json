@@ -1,0 +1,25 @@
+{
+  "site_title": "MyFeed",
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "type": "website",
+      "url": "https://feeds.arstechnica.com/arstechnica/index"
+    },
+    {
+      "name": "The Verge",
+      "type": "website",
+      "url": "https://www.theverge.com/rss/index.xml"
+    },
+    {
+      "name": "Hacker News",
+      "type": "website",
+      "url": "https://hnrss.org/frontpage"
+    },
+    {
+      "name": "YouTube — Google for Developers",
+      "type": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_x5XG1OV2P6uZZ5FSM9Ttw"
+    }
+  ]
+}
